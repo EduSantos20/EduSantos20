@@ -1,4 +1,4 @@
-Olá! Eu sou Eduardo Santos
+# Olá! Eu sou Eduardo Santos.
  
 - 🔭 I’m currently working  mas  não na aréra da tecnologia.
 - 🌱 I’m currently learning HTML, CSS3, JAVASCRIPTS E JAVA
