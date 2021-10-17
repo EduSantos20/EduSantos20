@@ -1,9 +1,9 @@
 # Hello World!.
 - Olá!, Meu nome é Eduardo Santos, tenho 22 anos sou natural de Pernambuco, mas morei em Alagoas. Estou morando aqui em extrema vai fazer 4 anos... meu primeiro emprego foi como operador de máquina CNC; foi experiência muito grande, aprendi bastante coisas, como setu-p de máquina, troca de ferramentas e etc. Depois fui Armazenista na Área da logística em uma outra empresa, foi onde eu tive contato com coletor, com sistema SAP aí foi onde me indentifiquei bastante, com a área de (Sistemas) depois tive uma experiência na Multilaser como auxiliar de produção. Atuando na ária das máquinas como conferente de setu-p, rosh lote e limpeza de extenso e atualmente trabalho como Operador de máquina na Ball Corporation.
 
-Tenho um perfil proativo, flexível, dedicado, objetivo, com extrema facilidade de aprender, trabalhar em equipe e em busca de desafios.
+- Tenho um perfil proativo, flexível, dedicado, objetivo, com extrema facilidade de aprender, trabalhar em equipe e em busca de desafios.
 
-Meu sonho é trabalhar na área de sistemas 🙏🙌
+- Meu sonho é trabalhar na área de sistemas 🙏🙌
 
 - 🔭 I’m currently working  mas  não na aréra da tecnologia.
 - 🌱 I’m currently learning HTML, CSS3, JAVASCRIPTS E JAVA
