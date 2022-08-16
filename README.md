@@ -1,5 +1,5 @@
-- 🔭 I’m currently working  mas  não na aréra da tecnologia.
-- 🌱 I’m currently learning HTML, CSS3, JAVASCRIPTS E JAVA
+s- 🔭 I’m currently working  mas  não na aréra da tecnologia.
+- 🌱 I’m currently learning  Java | Html5 | Css3 | Javascript | Bulma | Bootstrap | Nodejs | Typescript | Sass | SQL | MongoDB | React
 - 😄 Pronouns: ELE/ELA
 
 <div>
