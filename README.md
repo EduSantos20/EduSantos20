@@ -1,6 +1,10 @@
-- 🔭 I’m currently working  mas  não na aréra da tecnologia.
-- 🌱 I’m currently learning  Java | Html5 | Css3 | Javascript | Bulma | Bootstrap | Nodejs | Typescript | Sass | SQL | MongoDB | React
-- 😄 Pronouns: ELE/ELA
+- 🔭 Estudante de Ciência da Computação | 🚛 Profissional de Logística com experiência em SAP (MM, EWM, SD) | 💻 Apaixonado por tecnologia e Desenvolvimento Java.
+- Atualmente atuo na área de logística como conferente, onde desenvolvi uma forte habilidade com sistemas de gestão empresarial, especialmente o SAP, nos módulos MM, EWM e SD. Essa vivência me proporcionou uma visão analítica e orientada a - processos, sempre prezando pela qualidade e precisão.
+
+- Em transição para a área de tecnologia, venho me dedicando aos estudos em Ciência da Computação e ao desenvolvimento de sistemas. Tenho conhecimentos em Java, Spring Boot, HTML, CSS, JavaScript, além de fundamentos em bancos de dados
+- SQL/PostgreSQL, API REST, estrutura HTTP e arquitetura Cliente/Servidor.
+- 🌱 I’m currently learning  Java | Spring Boot | PostGreSQL | Css3 | Javascript | Html
+- - 😄 Pronouns: ELE/ELA
 
 <div>
   <a href="https://github.com/EduSantos20">
